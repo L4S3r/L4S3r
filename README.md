@@ -27,8 +27,10 @@ An interdisciplinary (AI + Cybersecurity + Agriculture) system to detect carcino
 </td>
 <td width="50%">
 
-### 🌿 Lumen — AI Skin-Type Scanner (Meloniq)
-A face-photo AI skin-type scanner complementing the Meloniq botanical skincare brand. Just had its first public demo at a conference — great reception and strong buyer interest from attendees.
+### 🦴 SkinSense — AI Skin-Type Scanner (Meloniq)
+A face-photo AI skin-type scanner complementing Meloniq, a botanical skincare brand. Just had its first public demo at a conference — great reception and strong buyer interest from attendees.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/L4S3r/SkinSense)
 
 </td>
 </tr>
@@ -167,6 +169,7 @@ Security isn't an afterthought in my projects — it's baked into the architectu
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-L4S3r-181717?style=for-the-badge&logo=github)](https://github.com/L4S3r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--yasser--l4s3r-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yasser-l4s3r/)
 
 </div>
 
