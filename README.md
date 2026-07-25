@@ -19,38 +19,28 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-### 🩺 AutiCare — AI-Powered Autism Care Platform
-A multi-platform care coordination system for autism support, built as my graduation project.
-
-- **Flutter** mobile app with role-specific dashboards (Parent · Doctor · Therapist · Child)
-- **Next.js + TypeScript** web frontend with Recharts analytics
-- **Node.js / Express** REST API with JWT auth + RBAC
-- **FastAPI** AI microservice with Gemini behavioral risk prediction
-- **MongoDB** backend deployed on **Vercel**
-
-[![Frontend](https://img.shields.io/badge/Frontend-AutiCareFrontend-0ea5e9?style=flat-square&logo=nextdotjs)](https://github.com/L4S3r/AutiCareFrontend)
-[![Live](https://img.shields.io/badge/Live-auti--care--frontend.vercel.app-22c55e?style=flat-square&logo=vercel)](https://auti-care-frontend.vercel.app)
+### 🧪 Graduation Project — Crop Contaminant Detection
+An interdisciplinary (AI + Cybersecurity + Agriculture) system to detect carcinogenic crop contaminants — mycotoxins, pesticide residues — in the field, combining AI-driven sensor interpretation with secure data transmission and reporting. Built for farmers, food safety regulators, and trade compliance bodies.
 
 </td>
-<td width="40%" align="center">
+<td width="50%">
 
-```
-AutiCare Stack
-──────────────
-📱 Flutter / Dart
-🌐 Next.js / TypeScript
-⚙️  Node.js / Express
-🐍 FastAPI (AI microservice)
-🧠 Gemini AI API
-🍃 MongoDB
-☁️  Vercel
-```
+### 🌿 Lumen — AI Skin-Type Scanner (Meloniq)
+A face-photo AI skin-type scanner complementing the Meloniq botanical skincare brand. Just had its first public demo at a conference — great reception and strong buyer interest from attendees.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Achievements
+
+- 🥉 **3rd Place, RoboRAVE Egypt 2026** (Entrepreneurial Open Project Track) with AutiCare — qualified to represent Egypt at **RoboRAVE International, Japan**
+- 🛡️ **SOC Analyst Intern**, Arabian Academy
+- 📋 **Head of R&D Committee**, IEEE PUA Student Branch
 
 ---
 
@@ -110,7 +100,7 @@ Security isn't an afterthought in my projects — it's baked into the architectu
 <td width="50%">
 
 **🩺 AutiCareFrontend**
-> AI-powered autism care coordination platform. Next.js · TypeScript · Tailwind · Firebase · Gemini AI · FastAPI microservice
+> My biggest project yet — AI-powered autism care coordination platform, 🥉 RoboRAVE Egypt 2026. On hold pending an official path to becoming a SaaS product. Next.js · TypeScript · Tailwind · Firebase · Gemini AI · FastAPI microservice
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/L4S3r/AutiCareFrontend)
 [![Live](https://img.shields.io/badge/Live_Demo-000?style=flat-square&logo=vercel)](https://auti-care-frontend.vercel.app)
