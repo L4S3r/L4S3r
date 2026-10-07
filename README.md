@@ -19,13 +19,6 @@
 
 <table>
 <tr>
-<td width="50%">
-
-### 🧪 Graduation Project — Crop Contaminant Detection
-An interdisciplinary (AI + Cybersecurity + Agriculture) system to detect carcinogenic crop contaminants — mycotoxins, pesticide residues — in the field, combining AI-driven sensor interpretation with secure data transmission and reporting. Built for farmers, food safety regulators, and trade compliance bodies.
-
-</td>
-<td width="50%">
 
 ### 🦴 SkinSense — AI Skin-Type Scanner (Meloniq)
 A face-photo AI skin-type scanner complementing Meloniq, a botanical skincare brand. Just had its first public demo at a conference — great reception and strong buyer interest from attendees.
